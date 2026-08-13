@@ -26,7 +26,7 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-# Your complete HTML, CSS, and JS code embedded as a string[cite: 1]
+# Your complete HTML, CSS, and JS code embedded as a string
 portfolio_html = """
 <!DOCTYPE html>
 <html lang="en">
@@ -1015,9 +1015,7 @@ portfolio_html = """
             <div class="hero-image-section">
                 <div class="profile-ring"></div>
                 <div class="profile-picture-container">
-                    <div class="profile-placeholder">
-                        Photo
-                    </div>
+                    <img src="https://github.com/Areeba79/portfolio/blob/main/IMG_20250724_145901.jpg?raw=true" alt="Ariba Naeem Profile Picture">
                 </div>
             </div>
             <div class="hero-text-section">
